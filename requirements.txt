@@ -9,4 +9,4 @@ py-tgcalls==0.9.7
 python-dotenv==1.0.1
 tgcrypto==1.2.5
 git+https://github.com/Tarx77/Hexor.git
-git+https://github.com/joetats/youtube_search@master
+git+https://github.com/Tarx77/Hexoop.git
